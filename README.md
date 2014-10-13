@@ -1,0 +1,4 @@
+EasyGurukul
+===========
+
+Educational ERP
